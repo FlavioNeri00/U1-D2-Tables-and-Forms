@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
 body{
-    font-family: 'Montserrat', sans-serif; 
+    font-family: 'Montserrat', sans-serif;
+    margin: 0; 
 }
 
 header{
@@ -22,7 +23,7 @@ header h1 {
     float: right;
     margin-top: 3vh;
     margin-right: 25vh;
-    
+    text-align: justify;
     font-weight: 700;
 }
 
